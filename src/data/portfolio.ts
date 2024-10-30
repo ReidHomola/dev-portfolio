@@ -1,8 +1,8 @@
 export default [
     {
-        title: 'Project 1 name',
+        title: 'Manufacturing Time-tracking System',
         imgUrl: '/assets/ice_lake.jpg',
-        stack: ['HTML', 'CSS', 'TypeScript'],
+        stack: ['Power Apps', 'Dataverse', 'Power Automate'],
         link: 'https://bk.com',
     },
     {

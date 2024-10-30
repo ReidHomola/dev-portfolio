@@ -1,7 +1,7 @@
 interface Props {
     title: string;
     year: string;
-    duration: string;
+    duration?: string;
     details: string;
 }
 

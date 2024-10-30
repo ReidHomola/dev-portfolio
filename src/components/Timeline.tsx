@@ -12,7 +12,7 @@ function Timeline() {
                         key={index} // Use a unique identifier if available
                         title={item.title}
                         year={item.year}
-                        duration={item.duration}
+                        duration={item.duration ?? ''}
                         details={item.details}
                     />
                 ))}
