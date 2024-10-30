@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/contact.tsx","./src/components/footer.tsx","./src/components/intro.tsx","./src/components/portfolio.tsx","./src/components/portfolioitem.tsx","./src/components/timeline.tsx","./src/data/portfolio.ts"],"errors":true,"version":"5.6.3"}
