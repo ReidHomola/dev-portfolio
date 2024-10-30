@@ -42,6 +42,6 @@ Hello! I'm Reid, a passionate software developer with a knack for creating effic
 
 ## Contact
 
-Feel free to reach out to me via [email@example.com](mailto:email@example.com) or connect with me on [LinkedIn](#).
+Feel free to reach out to me via [reidghomola@gmail.com](mailto:reidghomola@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/reid-homola/).
 
 Thank you for visiting my portfolio!
