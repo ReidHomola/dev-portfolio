@@ -1,50 +1,47 @@
-# React + TypeScript + Vite
+# Dev Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my development portfolio! This repository showcases my projects, skills, and experience as a software developer.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-   [About Me](#about-me)
+-   [Projects](#projects)
+-   [Skills](#skills)
+-   [Experience](#experience)
+-   [Contact](#contact)
 
-## Expanding the ESLint configuration
+## About Me
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Hello! I'm Reid, a passionate software developer with a knack for creating efficient and scalable applications. I love exploring new technologies and continuously improving my skills.
 
-- Configure the top-level `parserOptions` property like this:
+## Projects
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+### Project 1: Awesome App
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+-   **Description:** A brief description of the project.
+-   **Technologies:** List of technologies used.
+-   **Repository:** [Link to the repository](#)
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+### Project 2: Another Cool App
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+-   **Description:** A brief description of the project.
+-   **Technologies:** List of technologies used.
+-   **Repository:** [Link to the repository](#)
+
+## Skills
+
+-   **Languages:** JavaScript, Python, Java, C++
+-   **Frameworks:** React, Angular, Django, Spring
+-   **Tools:** Git, Docker, Jenkins, VS Code
+
+## Experience
+
+-   **Company Name:** Job Title
+    -   **Duration:** Start Date - End Date
+    -   **Responsibilities:** Brief description of responsibilities and achievements.
+
+## Contact
+
+Feel free to reach out to me via [email@example.com](mailto:email@example.com) or connect with me on [LinkedIn](#).
+
+Thank you for visiting my portfolio!
