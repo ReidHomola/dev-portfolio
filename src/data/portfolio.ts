@@ -1,20 +1,20 @@
 export default [
     {
-        title: 'Manufacturing Time-tracking System',
+        title: 'Manufacturing Production Tracking System',
         imgUrl: '/assets/ice_lake.jpg',
         stack: ['Power Apps', 'Dataverse', 'Power Automate'],
         link: 'https://bk.com',
     },
     {
-        title: 'Developer Portfolio',
+        title: 'Stocks Trading Game',
         imgUrl: '/assets/road.jpg',
-        stack: ['React', 'Tailwind', 'Vite'],
+        stack: ['Python', 'Backend', 'SQL'],
         link: 'https://bk.com',
     },
     {
-        title: 'Project 3 name',
+        title: 'Kayak Rental Self-service Platform',
         imgUrl: '/assets/trees.jpg',
-        stack: ['HTML', 'CSS', 'TypeScript'],
+        stack: ['NoSQL', 'React', '.NET Core'],
         link: 'https://bk.com',
     },
 ];
