@@ -11,7 +11,7 @@ function Timeline() {
                     <TimelineItem
                         key={index} // Use a unique identifier if available
                         title={item.title}
-                        year={item.year}
+                        timePeriod={item.timePeriod}
                         duration={item.duration ?? ''}
                         details={item.details}
                     />
