@@ -8,7 +8,15 @@ function Intro() {
                 Software Engineer
             </p>
             <p className="text-sm max-w-xl mb-6 font-bold">
-                I'm a software engineer.
+                As a dynamic software engineer with a proven track record, I
+                swiftly adapt to new technologies and excel in various languages
+                and frameworks. My passion for continuous learning drives me to
+                stay ahead in this ever-evolving field. I bring a wealth of
+                experience from the lumber and building materials industry,
+                where I honed my skills working with ERP systems. I have
+                developed robust analytics tools, integrated software solutions,
+                and automated numerous manual tasks to enhance operational
+                efficiency and data-driven decision-making.
             </p>
         </div>
     );
