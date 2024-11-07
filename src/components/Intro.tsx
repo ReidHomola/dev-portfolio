@@ -8,17 +8,21 @@ function Intro() {
                 Software Engineer
             </p>
             <p className="text-sm max-w-xl mb-6 font-bold">
-                As a dynamic software engineer with a proven track record, I
-                swiftly adapt to new technologies and excel in various languages
-                and frameworks. My passion for continuous learning drives me to
-                stay ahead in this ever-evolving field.
+                I'm a software developer who genuinely cares about my craft and
+                quality of my work. I do well transforming complex problems into
+                elegant solutions. I take the time to develop with care and
+                focus on finding the best solutions.
                 <br />
-                <br />I bring a wealth of experience from the lumber and
-                building materials industry, where I honed my skills working
-                with ERP systems. I have developed robust analytics tools,
-                integrated software solutions, and automated numerous manual
-                tasks to enhance operational efficiency and data-driven
-                decision-making.
+                <br />
+                I have a passion for learning. Ever since I was young I've
+                absorbed many topics and technologies. I enjoy math, perfecting
+                my disc golf skills, being with friends & family, and anything
+                else that takes my fancy.
+                <br />
+                <br />I managed a small IT team where we maintained and improved
+                our technical systems. Our team developed custom solutions to
+                meet business needs including automations, analytics, and
+                full-scale production applications.
             </p>
         </div>
     );
